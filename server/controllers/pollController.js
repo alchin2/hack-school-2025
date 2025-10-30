@@ -2,7 +2,7 @@ const Poll = require("../models/Poll");
 
 // TODO
 // ACTIVITY 2a - Implement getPolls function (return all polls)
-
+const getPolls = async () => {
 // ACTIVITY 2b - Implement getPoll function (get one poll by id)
 
 // END ACTIVITY 2
